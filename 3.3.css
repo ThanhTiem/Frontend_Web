@@ -1,0 +1,68 @@
+.tieude_big{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    text-decoration: none;
+    color: #00bbf3;
+    border-left: 5px solid;
+    padding-left: 5px;
+}
+.duoi{
+    padding-top: 10px
+}
+.trai{
+    width: 340px;
+    height: 435px;
+    background-color: #f6f6f6;
+    float: left;
+}
+.trai a.tdtrai{
+    font-family: 'Cabin', sans-serif;
+    font-size: 18px;
+    color: blue;
+    text-decoration: none;
+    padding:0 15px;
+    display: block;
+}
+.trai p{
+    padding:0 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #004f8b;
+    font-size: 14px;
+}
+.trai a:hover{
+    color: #00bbf3;
+}
+.trai img{
+    width: 340px;
+}
+.mottin{
+    width: 166px;
+    height: 230px;
+    float: left;
+    margin-right: 14px;
+}
+.mottin img{
+    width: 167px;
+}
+.phai{
+    width: 360px;
+    float: left;
+    padding-left: 15px;
+   
+}
+.phai a.tdtinphai{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #004f8b;
+    display: block;
+    font-weight: bold;
+}
+.phai a.tdtinphai:hover{
+    color: #00bbf3;
+}
+
+.motkhoitindocbao{
+    height: 500px;
+}
